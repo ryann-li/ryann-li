@@ -4,7 +4,7 @@
 I'm a Computer Engineering student at the University of Waterloo.
 
 ### 🔭 Currently Working On:
-- **Cool projects as a software engineering intern at Databricks!**
+- **Owning production projects end to end at Databricks!**
 - **Building [Music Unbounded](https://www.musicunbounded.org/)**
 - **Learning how to control FPGAs in ECE 327**
 
