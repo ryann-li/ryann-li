@@ -4,12 +4,12 @@
 I'm a Computer Engineering student at the University of Waterloo.
 
 ### 🔭 Currently Working On:
-- **Owning production projects end to end at Databricks!**
+- **High performant C++ tool at Citadel Securities**
 - **Building [Music Unbounded](https://www.musicunbounded.org/)**
 - **Learning how to control FPGAs in ECE 327**
 
 ### 👩🏾‍💻 Previouly, I...
-- **Worked on scaling core services at [Constant Contact](https://www.constantcontact.com/)**
+- **Worked on core product services at [Databricks](https://www.databricks.com/)**
 - **Helped make developers' lives easier at [Super.com](https://www.super.com/)**
 
 ### 📫 Let's Connect!
