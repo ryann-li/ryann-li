@@ -4,9 +4,9 @@
 I'm a Computer Engineering student at the University of Waterloo.
 
 ### 🔭 Currently Working On:
-- **High performant C++ project at Citadel Securities**
+- **School**
 - **Building [Music Unbounded](https://www.musicunbounded.org/)**
-- **Learning how to control FPGAs in ECE 327**
+- **Learning how to control FPGAs**
 
 ### 👩🏾‍💻 Previouly, I...
 - **Worked on core product services at [Databricks](https://www.databricks.com/)**
